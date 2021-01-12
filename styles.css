@@ -1,35 +1,51 @@
 body {
-  font-family:"Times New Roman", serif;
-  background-color:#f5f4ed;
+  font-family:"times new roman", serif;
+  background-color:#d3f2f2;
   margin-left:20px;
-  font-size:1em;
+  font-size:1em
 }
-  
+
 main {
   width:60vw;
 }
-  
+
 h1 {
   font-weight:400;
   font-size:2.5rem;
 }
-  
+
 h2 {
   font-weight:400;
   font-size:1.7rem;
+  color:#525c5b;
   padding-top:1.5rem;
 }
-  
+
 h3 {
   font-weight:400;
-  font-size:1.3rem;
-  color:#ff4f1f;
+  font-size:1.5rem;
+  color:#525c5b;
   padding-bottom:1.5rem;
 }
+
+h4 {
+  font-size:1.4rem; 
+  font-weight:350; 
+  color:#3d4747;
   
+}
+
 p {
   font-size:1.3rem;
   margin:0px;
+  color:#637070;
+  text-indent: 35px;
+}
+
+li {
+  font-size:1.3rem;
+  margin:0px;
+  color:#637070;
   text-indent: 35px;
 }
   
